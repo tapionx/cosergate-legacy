@@ -1,0 +1,143 @@
+body,
+html {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: small;
+	/* background-color: #DEFDFF; */
+    background: url(img/back.jpg) repeat;
+}
+ul {
+	padding-left: 1.4em;
+}
+.riquadro-sidebar {
+    border: 1px solid black;
+    padding: 0.7em;
+    background-color: #CEFFB5;
+    margin: 0em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+legend {
+    margin-bottom: 0.5em;
+}
+h1 {
+	font-size: 2.85em;
+	margin: 0em;
+}
+h3 {
+    font-weight: normal;
+    margin: 0em;
+}
+#lost{
+	color: black;
+}
+.riepilogo {
+	font-size: 1.3em;
+	text-align: center;
+}
+#green {
+	color: green;
+	font-weight: bold;
+}
+#red {
+	color: red;
+	font-weight: bold;
+}
+table {
+    border-collapse: collapse;
+    margin-top: 1em;
+    margin-bottom: 0.7em;
+}
+.tabella tr {
+    background-color: #CEFFB5;
+}
+.tabella td {
+    border: 1px solid green;
+    padding: 5px;
+    text-align: center;
+}
+.tabella th {
+    background-color:#36FF36;
+    color:black;
+    border: 1px solid green;
+    padding: 0.4em;
+    font-size: 1.1em;
+}
+.tabella tr:hover {
+    background-color: #36FF36; 
+}
+.riparatore {
+    text-align: left;
+}
+.tabella-res {
+    text-align: left;
+}
+#saldato {
+	background-color: #E8E8E8
+}
+#header {
+    margin: 1.5em;
+}
+#wrap {
+	margin:0 auto;
+}
+legend {
+	font-weight: bold;
+}
+#email {
+    margin-left: 0.4em;
+}
+#main {
+	float:left;
+
+}
+#sidebar {
+	float:left;
+	margin-right: 1.5em;
+	margin-left: 0.7em;
+}
+#messaggi {
+	color: red;
+	font-weight: bold;
+}
+#footer {
+	clear:both;
+	padding:5px 100px;
+}
+#main-home {
+	text-align: center;
+}
+.bottone-home {
+	font-size: 1.5em;
+	border: 1px solid black;
+	padding: 0.25em;
+	margin: 1em;
+	text-decoration: none;
+	background-color: #BFFF80;
+	color: black;
+}
+#form {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+.primo {
+	display: inline-block;
+	width: 130px;
+	margin: 0px;	
+}
+.chep {
+	margin: 0.8em 0;
+}
+.colonna-descrizione {
+	width: 150px;
+}
+#form-descrizione {
+	width: 150px;
+}
+#form-importo {
+	width: 55px;
+}
+#form-data {
+	width: 60px;
+}
